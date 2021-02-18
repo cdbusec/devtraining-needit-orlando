@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="DELETE">
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 15:22:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f17fa530752201022f6f26d7c1ed07b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>150</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_target_values_4f17fa530752201022f6f26d7c1ed07b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 15:22:18</sys_updated_on>
+        <target display_value="NeedIt: Due Monthly">8b17fa530752201022f6f26d7c1ed078</target>
+        <target_at>20210201</target_at>
+        <value>150</value>
+    </pa_target_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2945eca0dbfc3f40387021c405961986</instance_id>
+        <instance_name>dev80072</instance_name>
+        <name>pa_target_values_4f17fa530752201022f6f26d7c1ed07b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values"><pa_target_values action="INSERT_OR_UPDATE"><sys_class_name>pa_target_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-18 15:22:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4f17fa530752201022f6f26d7c1ed07b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>150</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_target_values_4f17fa530752201022f6f26d7c1ed07b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-18 15:22:18</sys_updated_on><target display_value="NeedIt: Due Monthly">8b17fa530752201022f6f26d7c1ed078</target><target_at>20210201</target_at><value>150</value></pa_target_values></record_update>]]></payload>
+        <payload_hash>-1305040384</payload_hash>
+        <record_name>150</record_name>
+        <reverted_from/>
+        <source>465b182e075a201022f6f26d7c1ed01c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 15:22:18</sys_created_on>
+        <sys_id>431776930752201022f6f26d7c1ed0b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b5bc16f00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 15:22:18</sys_updated_on>
+        <type>Target value</type>
+        <update_guid>8b17769311522010709f8a736f762fb4</update_guid>
+        <update_guid_history>8b17769311522010709f8a736f762fb4:-1305040384</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="150">8f8776930752201022f6f26d7c1ed0c1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 15:24:13</sys_created_on>
+        <sys_db_object display_value="" name="pa_target_values">pa_target_values</sys_db_object>
+        <sys_id>4ec9e8d4392745b88fcd5c1089b34a40</sys_id>
+        <sys_metadata>4f17fa530752201022f6f26d7c1ed07b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>150</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="c1e8ea1b0712201022f6f26d7c1ed04a">8b17fa530752201022f6f26d7c1ed078</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_target_values_4f17fa530752201022f6f26d7c1ed07b</sys_update_name>
+        <sys_update_version display_value="pa_target_values_4f17fa530752201022f6f26d7c1ed07b">431776930752201022f6f26d7c1ed0b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 15:24:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
